@@ -9,15 +9,25 @@ Criação de testes automáticos com o framework pytest.
 
 ### Conteúdo
 1. Criação de Projetos
+
 1.1. Afiando o Machado - Git
+
 1.1.1. Motivação
+
 1.1.2. Criação de Repositório
+
 1.1.3. Chaves SSH
+
 1.1.4. Fork
+
 1.1.5. Pull Request
+
 1.1.6. Pull Request Não Aceito
+
 1.1.7. Feature Branch
+
 1.1.8. Resolução de Conflito no Git
+
 1.1.9. Arquivo Gitignore
 
 
