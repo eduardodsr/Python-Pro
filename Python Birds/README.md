@@ -24,6 +24,8 @@ Powered by [Python Pro](http://adm.python.pro.br)
 Nessa seção você vai aprender programação procedural. Esse paradigma consiste em você definir a resolução de um problema, passo a passo, de forma linear. Funciona como uma receita culinária, onde cada etapa é definida exatamente uma depois da outra.
 
 ### 1.1.	Introdução ✔️ 
+# Descrição:
+Nesse capítulo você vai conferir a motivação do curso, ou seja, como o jogo ficará após a implementação. Logo depois você vai aprender como instalar o Python em seu sistema operacional, editar código e fazer pequenos testes no console.
 
 1.1.1.	Motivação ✔️ 
 
@@ -38,6 +40,8 @@ Nessa seção você vai aprender programação procedural. Esse paradigma consis
 1.1.6.	Pycharm IDE ✔️ 
 
 ### 1.2.	Tipos Básicos ✔️ 
+#Descrição: 
+Nesse capítulo você vai aprender sobre os tipos embutidos. Eles formam um conjunto básicos de classes que serve para modelar o seu programa, como números e palavras.
 
 1.2.1.	Tipo Inteiro ✔️ 
 
@@ -50,6 +54,8 @@ Nessa seção você vai aprender programação procedural. Esse paradigma consis
 1.2.5.	Desvios Condicionais ✔️ 
 
 ### 1.3.	Containers e Iteração
+# Descrição:
+Nesse capítulo você vai conferir diversos tipos de containers em Python. Os containers são estruturas de dados que contém referências para outros objetos. Já a iteração é a maneira pela qual você navega nos elementos de um container constituindo então o outro principal assunto a ser abordado.
 
 1.3.1.	String, Dir e Help
 
@@ -68,6 +74,8 @@ Nessa seção você vai aprender programação procedural. Esse paradigma consis
 1.3.8.	Iteração em Dicionário
 
 ### 1.4.	Modularização
+# Descrição:
+Nesse capítulo você vai aprender como modularizar seu código com estrutura básicas da linguagem Python: Funções, Módulos e Pacotes. Assim seu código começa a ser dividido para que não fique sobrecarregado. Você vai conferir também como documentar o seu código para facilitar a leitura. Por fim será feito um exercício ao final da seção abordando os conceitos de toda a sessão Programação Procedural, finalizando com um tópico de retrospectiva.
 
 1.4.1.	Função e PEP 8
 
@@ -92,8 +100,12 @@ Nessa seção você vai aprender programação procedural. Esse paradigma consis
 1.4.11.	Retrospectiva: Paradigma Procedural
 
 ## 2.	Orientação a Objetos
+# Descrição:
+Depois de aprender o paradigma procedural na seção anterior chega hora de conhecer outro: a Orientação a Objetos (OO). Você vai aprender sobre classes e seus componentes, herança e utilizar esses conceitos para implementar o jogo Python Birds. Como toda mudança de paradigma, demora um tempo para se acostumar, mas é importante aprender bem OO porque ela utilizada em inúmeras bibliotecas e frameworks.
 
 ### 2.1.	Classe e Composição
+# Descrição:
+Nesse capítulo você vai estudar e estrutura de dados base de toda Orientação a Objetos: a Classe. Além de serem abordados todos seu elementos, como atributos de dados e métodos, será também apresentado o conceito de Composição. Nele você aprenderá como os Objetos, construídos através de classes, se relacionam. Depois disso tudo você ainda aprender o básico sobre o controlador de versão Git e também sobre testes automáticos com Doctest.
 
 2.1.1.	Git no Windows
 
@@ -132,6 +144,8 @@ Nessa seção você vai aprender programação procedural. Esse paradigma consis
 2.1.18.	Fase e Atores
 
 ### 2.2.	Herança
+### Descrição
+Nesse capítulo, depois de aprender composição no anterior, você vai aprender o outro conceito fundamental da orientação a objetos: a Herança. Na maioria dos cursos a Herança é ensinada antes da Composição. Contudo isso foi invertido propositalmente porque a composição costuma ser mais importante que a herança, tanto é que existe uma boa prática que é: "Prefira Composição a Herança". Portanto, use com parcimônia.
 
 2.2.1.	Herança Simples
 
