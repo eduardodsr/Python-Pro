@@ -3,7 +3,7 @@
 ### Os desafios de se tornar um Programador
 
 
-## EsquentaSPP (Semana do Programador Profissional).
+## '#EsquentaSPP (Semana do Programador Profissional).
 
 ### Primeira Semana de Lives:
 
