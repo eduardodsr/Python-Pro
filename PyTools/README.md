@@ -18,7 +18,7 @@ Instalação e criação de bibliotecas utilizando pip, virtualenv e pypi. Cria�
 ### 1. Criação de Projetos
 Nessa seção você vai conferir várias boas práticas para criação de um projeto de código aberto em Python. Primeiros passos, versionamento, criação de virtualenvs, instação de libs de terceiros e publicação no PyPi. Assim você vai ter conhecimento sobre todo o ferramental que os projetos existentes utilizam e também vai aprender como reutilizar e compartilhar código criando sua própria biblioteca
 
-#### 1.1. Afiando o Machado - Git
+### 1.1. Afiando o Machado - Git
 "Para cortar lenha na metade do tempo, gaste o dobro de tempo afiando seu machado". Esse ditado ensina que é preciso ter suas ferramentas sempre prontas e no ponto ideal de facilitar o seu trabalho. Portanto nesse capítulo você vai aprender como criar o seu projeto e fazer o setup de seu ambiente para fazer com que ele o auxilie em suas tarefas. Esse é o mote principal de todo esse módulo e começaremos investigando o git e como contribuir com open source
 
 1.1.1. Motivação
@@ -89,7 +89,7 @@ Nessa seção você vai aprofundar nos conceitos e ferramentas para automatizaç
 
 Você vai conferir o framework pytest, mock, cobertura de testes e muito mais. Divirta-se!
 
-2.1. Framework Pytest
+### 2.1. Framework Pytest
 
 Nesse capítulo você vai aprender como escrever testes automatizados utilizando o framework Pytest. Apesar de já terem sido apresentados os framewords doctest e unitest no módulo Python Birds, aprender o Pytest é fundamental porque ele vem sendo utilizados por diversas empresas e projetos por proporcionar a escrita de testes mais simples.
 
@@ -105,7 +105,7 @@ Nesse capítulo você vai aprender como escrever testes automatizados utilizando
 
 2.2.6. Teste de Exceções
 
-2.2. Pytest Fixtures
+### 2.2. Pytest Fixtures
 
 Nessa capítulo você vai conhecer umas das funcionalidades mais interessantes do framework Pytest: as fixtures. Com elas você vai conseguir escrever código mais legível e controlar de forma granular o ciclo de vida de objetos para manter a sua suite de testes legível e performática.
 
@@ -121,7 +121,7 @@ Nessa capítulo você vai conhecer umas das funcionalidades mais interessantes d
 
 2.2.6. Arquivo Conftest
 
-2.3. Injeção de Dependências
+### 2.3. Injeção de Dependências
 
 Nesse capitulo você vai aprender como utilizar o conceito de injeção de dependências para conseguir tornar o seu código testável, conhecendo biblitecas que vão facilitar a escrita e isolamento de testes, como a lib mock.
 
@@ -144,7 +144,7 @@ Nessa sessão você vai conhecer a evolução na gestão de dependências em Pyt
 
 Seu objetivo é facilitar a vida dos desenvolvedores e aumentar a segurança durante a instalação de pacotes.
 
-3.1. Instalação e Princípios Básicos
+### 3.1. Instalação e Princípios Básicos
 
 Nesse capítulo você vai instalar biblioteca pipenv e aprender como gerenciar seus projetos com ela.
 
@@ -156,7 +156,7 @@ Nesse capítulo você vai instalar biblioteca pipenv e aprender como gerenciar s
 
 3.1.4. Execução de Comandos no Virtualenv
 
-3.2. Atualizando Projeto Legado
+### 3.2. Atualizando Projeto Legado
 
 Nesse capítulo você vai atualizar o projeto legado utilizando pip + virtualenv para passar a utilizar o pipenv.
 
