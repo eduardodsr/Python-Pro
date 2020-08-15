@@ -12,7 +12,7 @@ https://github.com/eduardodsr/Python/tree/master/%23EsquentaSPP
 No primeiro módulo você vai conhecer as maravilhas do Python. Neste módulo eu vou te ensinar todos os fundamentos da programação.
 
 
-## Python Birds
+:link: ## Python Birds
 
 https://github.com/eduardodsr/Python/blob/master/Python%20Birds/README.md
 
