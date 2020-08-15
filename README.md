@@ -12,9 +12,9 @@ https://github.com/eduardodsr/Python/tree/master/%23EsquentaSPP
 No primeiro módulo você vai conhecer as maravilhas do Python. Neste módulo eu vou te ensinar todos os fundamentos da programação.
 
 
-:link: ## Python Birds
+## Python Birds
 
-https://github.com/eduardodsr/Python/blob/master/Python%20Birds/README.md
+:link: https://github.com/eduardodsr/Python/blob/master/Python%20Birds/README.md
 
 
 
@@ -26,7 +26,7 @@ Para programar não basta saber a lógica, é preciso saber operar as ferramenta
 
 ## PyTools
 
-https://github.com/eduardodsr/Python/tree/master/PyTools
+:link: https://github.com/eduardodsr/Python/tree/master/PyTools
 
 
 
@@ -37,4 +37,4 @@ Você vai aprender a construir e publicar, do zero, um sistema que possui divers
 
 ## Django
 
-https://github.com/eduardodsr/Python/tree/master/Django
+:link: https://github.com/eduardodsr/Python/tree/master/Django
