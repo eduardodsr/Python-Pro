@@ -14,7 +14,7 @@ No primeiro módulo você vai conhecer as maravilhas do Python. Neste módulo eu
 
 ## Python Birds
 
-:link: https://github.com/eduardodsr/Python/blob/master/Python%20Birds/README.md
+``` link: ```  https://github.com/eduardodsr/Python/blob/master/Python%20Birds/README.md
 
 
 
@@ -24,9 +24,10 @@ No segundo módulo você vai aprender a utilizar todas as ferramentas que um bom
 
 Para programar não basta saber a lógica, é preciso saber operar as ferramentas e utilizar técnicas que auxiliam o programador a fazer o seu trabalho do dia a dia.
 
+
 ## PyTools
 
-:link: https://github.com/eduardodsr/Python/tree/master/PyTools
+``` link: ```  https://github.com/eduardodsr/Python/tree/master/PyTools
 
 
 
@@ -35,6 +36,7 @@ Para programar não basta saber a lógica, é preciso saber operar as ferramenta
 E, no terceiro e principal módulo, você vai aprender a programar um sistema completo utilizando o melhor e mais famoso framework em Python: O Django! 
 Você vai aprender a construir e publicar, do zero, um sistema que possui diversas funcionalidades que os recrutadores das melhores vagas solicitam.
 
+
 ## Django
 
-:link: https://github.com/eduardodsr/Python/tree/master/Django
+``` link: ```  https://github.com/eduardodsr/Python/tree/master/Django
