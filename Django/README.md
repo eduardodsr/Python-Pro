@@ -14,7 +14,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 
 1.	Twelve Factor App
 
-- 1.1.	Entrega Contínua
+1.1.	Entrega Contínua
 - 1.1.1.	Motivação Django
 - 1.1.2.	Pipenv
 - 1.1.3.	Integrando Pipenv Travis e Pyup
@@ -26,7 +26,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 1.1.9.	Pytest Django
 - 1.1.10.	Cobertura de Testes
 
-- 1.2.	Configurações de Projeto
+1.2.	Configurações de Projeto
 - 1.2.1.	Lib Python Decouple
 - 1.2.2.	Secret Key
 - 1.2.3.	Domínio e ALLOWED_HOSTS
