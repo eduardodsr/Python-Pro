@@ -22,6 +22,9 @@ Nessa seção você vai conferir várias boas práticas para criação de um pro
 
 #### 1.1. Afiando o Machado - Git
 
+### Descrição
+"Para cortar lenha na metade do tempo, gaste o dobro de tempo afiando seu machado". Esse ditado ensina que é preciso ter suas ferramentas sempre prontas e no ponto ideal de facilitar o seu trabalho. Portanto nesse capítulo você vai aprender como criar o seu projeto e fazer o setup de seu ambiente para fazer com que ele o auxilie em suas tarefas. Esse é o mote principal de todo esse módulo e começaremos investigando o git e como contribuir com open source
+
 1.1.1. Motivação
 
 1.1.2. Criação de Repositório
@@ -42,6 +45,9 @@ Nessa seção você vai conferir várias boas práticas para criação de um pro
 
 ### 1.2. Isolando o Ambiente
 
+### Descrição
+Nesse capítulo você vai aprender a isolar seu ambiente para poder conviver com diversas versões de Python e diversas versões de bibliotecas. Você também vai automatizar ainda mais seu ambiente para aumentar a qualidade de seu código.
+
 1.2.1. Pyenv no Ubuntu
 
 1.2.2. Pyenv no Mac
@@ -58,6 +64,9 @@ Nessa seção você vai conferir várias boas práticas para criação de um pro
 
 ### 1.3. Gestão de Dependências
 
+### Descrição
+Nesse capítulo você vai aprender o que são Dependências. Confira como instalar bibliotecas de terceiros para reutilizar código, como instalar e gerir dependências para outros projetos e como publicar se código no PyPi
+
 1.3.1. Instalação de Libs com PIP
 
 1.3.2. Requirements
@@ -69,6 +78,9 @@ Nessa seção você vai conferir várias boas práticas para criação de um pro
 1.3.5. Upgrade de Dependências
 
 ### 1.4. Publicação de Pacote
+
+### Descrição
+Nesse capítulo você vai aprender como criar a infra estrutura necessária para disponibilizar um projeto seu como um pacote instalável no PyPi
 
 1.4.1. Arquivo Setup.py
 
@@ -91,6 +103,9 @@ Você vai conferir o framework pytest, mock, cobertura de testes e muito mais. D
 
 2.1. Framework Pytest
 
+### Descrição
+Nesse capítulo você vai aprender como escrever testes automatizados utilizando o framework Pytest. Apesar de já terem sido apresentados os framewords doctest e unitest no módulo Python Birds, aprender o Pytest é fundamental porque ele vem sendo utilizados por diversas empresas e projetos por proporcionar a escrita de testes mais simples.
+
 2.2.1. Pytest: Instalação
 
 2.2.2. Criação e Execução de Testes
@@ -105,6 +120,9 @@ Você vai conferir o framework pytest, mock, cobertura de testes e muito mais. D
 
 2.2. Pytest Fixtures
 
+### Descrição
+Nessa capítulo você vai conhecer umas das funcionalidades mais interessantes do framework Pytest: as fixtures. Com elas você vai conseguir escrever código mais legível e controlar de forma granular o ciclo de vida de objetos para manter a sua suite de testes legível e performática.
+
 2.2.1. Emulando Teste com Banco de Dados
 
 2.2.2. Implementação de Conexão, Sessão e Usuário
@@ -118,6 +136,9 @@ Você vai conferir o framework pytest, mock, cobertura de testes e muito mais. D
 2.2.6. Arquivo Conftest
 
 2.3. Injeção de Dependências
+
+### Descrição
+Nesse capitulo você vai aprender como utilizar o conceito de injeção de dependências para conseguir tornar o seu código testável, conhecendo biblitecas que vão facilitar a escrita e isolamento de testes, como a lib mock.
 
 2.3.1. Produção de Código Testável
 
@@ -142,6 +163,9 @@ Seu objetivo é facilitar a vida dos desenvolvedores e aumentar a segurança dur
 
 3.1. Instalação e Princípios Básicos
 
+### Descrição
+Nesse capítulo você vai instalar biblioteca pipenv e aprender como gerenciar seus projetos com ela.
+
 3.1.1. Pipenv - Motivação
 
 3.1.2. Instalação e Configuração do Pipenv
@@ -151,6 +175,9 @@ Seu objetivo é facilitar a vida dos desenvolvedores e aumentar a segurança dur
 3.1.4. Execução de Comandos no Virtualenv
 
 3.2. Atualizando Projeto Legado
+
+### Descrição
+Nesse capítulo você vai atualizar o projeto legado utilizando pip + virtualenv para passar a utilizar o pipenv.
 
 3.2.1. Criando Arquivos do Pipenv
 
