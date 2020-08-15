@@ -7,7 +7,7 @@
 
 ### Primeira Semana de Lives:
 
-- 27/07 → NÃO FAÇA o trabalho do RH!
+- 27/07 → NÃO FAÇA o trabalho do RH! - 33:27 []
 - 28/07 → Aprender a Programar É DIFÍCIL?
 - 29/07 → Como ser CONTRATADO como PROGRAMADOR?
 - 30/07 → Preciso SABER INGLÊS para aprender a programar?
