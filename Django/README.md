@@ -13,123 +13,182 @@
 Além dos conceitos, será exemplificado um processo de entrega contínua com deploys regulares no Heroku.
 
 1.	Twelve Factor App
+
 1.1.	Entrega Contínua
+
 1.1.1.	Motivação Django
+
 1.1.2.	Pipenv
+
 1.1.3.	Integrando Pipenv Travis e Pyup
+
 1.1.4.	Setup de Projeto e Arquivo Manage
+
 1.1.5.	Publicação no Heroku
+
 1.1.6.	Deploy Automático
+
 1.1.7.	Rodando Servidor no Pycharm
+
 1.1.8.	Olá Django
+
 1.1.9.	Pytest Django
-.1.1.10.	Cobertura de Testes
 
-2.	Configurações de Projeto
-1.	Lib Python Decouple
-2.	Secret Key
-3.	Domínio e ALLOWED_HOSTS
-4.	Endereço de Banco de Dados
-5.	Testando Postgresql no Travis
-6.	Lingua e Fuso Horário
-3.	Arquivos Estáticos e Upload de Arquivos
-1.	Comando de Coleta de Arquivos Estáticos
-2.	Criação de Usuário na Amazon
-3.	Criação e Configuração do S3
-4.	Configurando a Lib django_s3_folder_storage
-5.	Otimizando Uploads com Collectfast
-4.	Migrações e Customização de Usuário
-1.	Sobrescrevendo a Classe User
-2.	Customizando a Classe UserManager
-3.	Comando Makemigrations e Alias mng
-4.	Conexão com Banco e Migrações
-5.	Admin do Usuário
-6.	Aplicando Migrações no Heroku
-5.	Backup, Debug, Sentry e Conclusão
-1.	Backup do Postgresql
-2.	Django Debug Toolbar
-3.	Monitorando Erros com Sentry
-4.	Conclusão The Twelve-Factor App
+1.1.10.	Cobertura de Testes
 
-2.	Frontend e Emails
-1.	Landing Page
-1.	Projeto Fechado
-2.	Twitter Bootstrap e Layoutit
-3.	Instalando Arquivos Estáticos Localmente
-4.	Template Tag Static
-5.	Criação de Função para Testar Conteúdo
-6.	Urls Nomeadas
-7.	Encapsulando Urls em Apps
-8.	Favicon, Imagens e HTML
-9.	Rodapé
-10.	Entrega da Landing Page
+1.2.	Configurações de Projeto
+
+1.2.1.	Lib Python Decouple
+
+1.2.2.	Secret Key
+
+1.2.3.	Domínio e ALLOWED_HOSTS
+
+1.2.4.	Endereço de Banco de Dados
+
+1.2.5.	Testando Postgresql no Travis
+
+1.2.6.	Lingua e Fuso Horário
+
+1.3.	Arquivos Estáticos e Upload de Arquivos
+
+1.3.1.	Comando de Coleta de Arquivos Estáticos
+
+1.3.2.	Criação de Usuário na Amazon
+
+1.3.3.	Criação e Configuração do S3
+
+1.3.4.	Configurando a Lib django_s3_folder_storage
+
+1.3.5.	Otimizando Uploads com Collectfast
+
+1.4.	Migrações e Customização de Usuário
+
+1.4.1.	Sobrescrevendo a Classe User
+
+1.4.2.	Customizando a Classe UserManager
+
+1.4.3.	Comando Makemigrations e Alias mng
+
+1.4.4.	Conexão com Banco e Migrações
+
+1.4.5.	Admin do Usuário
+
+1.4.6.	Aplicando Migrações no Heroku
+
+1.5.	Backup, Debug, Sentry e Conclusão
+
+1.5.1.	Backup do Postgresql
+
+1.5.2.	Django Debug Toolbar
+
+1.5.3.	Monitorando Erros com Sentry
+
+1.5.4.	Conclusão The Twelve-Factor App
+
+1.2.	Frontend e Emails
+
+1.2.1.	Landing Page
+
+1.2.1.1.	Projeto Fechado
+
+1.2.1.2.	Twitter Bootstrap e Layoutit
+
+1.2.1.3.	Instalando Arquivos Estáticos Localmente
+
+1.2.1.4.	Template Tag Static
+
+1.2.1.5.	Criação de Função para Testar Conteúdo
+
+1.2.1.6.	Urls Nomeadas
+
+1.2.1.7.	Encapsulando Urls em Apps
+
+1.2.1..8.	Favicon, Imagens e HTML
+
+1.2.1.9.	Rodapé
+
+1.2.1.10.	Entrega da Landing Page
 
 2.	Integrações Simples
-1.	Criação de Conta Mailchimp
-2.	Criação de Lista de Espera
-3.	Envio de Emails com Mailchimp
-4.	Configurando Botão de Pagamento
-5.	Serviço de Video Vimeo
-6.	Criação de App Aperitivo
-7.	Publicando o Video em Produção
+
+2.1.	Criação de Conta Mailchimp
+
+2.2.	Criação de Lista de Espera
+
+2.3.	Envio de Emails com Mailchimp
+
+2.4.	Configurando Botão de Pagamento
+
+2.5.	Serviço de Video Vimeo
+
+2.6.	Criação de App Aperitivo
+
+2.7.	Publicando o Video em Produção
 
 3.	HTTP e Templates
-1.	Fluxo HTTP no Django
-2.	Herança de Templates
-3.	Bloco de Template
-4.	Contexto de Template
-5.	Video de Acordo com Slug
-6.	Filtros
-7.	Lista de Elementos com For
-8.	Acesso a Atributos no Template
-9.	Acesso a Método no Template
-10.	Composição de Templates
+
+3.1.	Fluxo HTTP no Django
+3.2.	Herança de Templates
+3.3.	Bloco de Template
+3.4.	Contexto de Template
+3.5.	Video de Acordo com Slug
+3.6.	Filtros
+3.7.	Lista de Elementos com For
+3.8.	Acesso a Atributos no Template
+3.9.	Acesso a Método no Template
+3.10.	Composição de Templates
 
 3.	Banco de Dados
-1.	Instalação e Fundamentos
-1.	Motivação - Banco de Dados
-2.	Instalação de Postgres com Docker
-3.	Acesso e Configuração Local do Postgres
-4.	Modelos do Django
-5.	Introdução a QuerySet e Migrações
-2.	Testes com Banco de Dados
-1.	Executar Testes Com e Sem Migrações
-2.	Criação de Modelos nos Testes
-3.	Criação Automágica de Propriedades de Modelo
-4.	Final de Testes de Video e Criação de Migração
-5.	Introdução ao Admin do Django
+3.1.	Instalação e Fundamentos
+3.1.1.	Motivação - Banco de Dados
+3.1.2.	Instalação de Postgres com Docker
+3.1.3.	Acesso e Configuração Local do Postgres
+3.1.4.	Modelos do Django
+3.1.5.	Introdução a QuerySet e Migrações
+
+3.2.	Testes com Banco de Dados
+3.2.1.	Executar Testes Com e Sem Migrações
+3.2.2.	Criação de Modelos nos Testes
+3.2.3.	Criação Automágica de Propriedades de Modelo
+3.2.4.	Final de Testes de Video e Criação de Migração
+3.2.5.	Introdução ao Admin do Django
+
 3.	Criação de App de Módulos de Aulas
-1.	Requisitos da App Módulos de Aulas
-2.	Teste de Títulos de Aba Módulos
-3.	Fachada com Regras de Negócio
-4.	Processador de Contexto
-5.	Reaproveitando Apps de Terceiros
-6.	Migração de Dados
-7.	Consertando Links do Dropdown
-8.	Construção da Página de Detalhes do Módulo
+3.3.	Requisitos da App Módulos de Aulas
+3.3.2.	Teste de Títulos de Aba Módulos
+3.3.3.	Fachada com Regras de Negócio
+3.3.4.	Processador de Contexto
+3.3.5.	Reaproveitando Apps de Terceiros
+3.3.6.	Migração de Dados
+3.3.7.	Consertando Links do Dropdown
+3.3.8.	Construção da Página de Detalhes do Módulo
+
 4.	Relacionamento Muitos para Um
-1.	Como Criar Relacionamento entre Módulo e Aulas
-2.	Acesso a Relação com Atributo _set
-3.	Unindo Tabelas com SQL JOIN
-4.	Criando Links para Aulas
-5.	Página de Detalhe da Aula
-6.	Adição de Coluna em Tabela
+4.1.	Como Criar Relacionamento entre Módulo e Aulas
+4.2.	Acesso a Relação com Atributo _set
+4.3.	Unindo Tabelas com SQL JOIN
+4.4.	Criando Links para Aulas
+4.5.	Página de Detalhe da Aula
+4.6.	Adição de Coluna em Tabela
+
 5.	Como Escapar das Armadilhas do ORM
-1.	Tunando o Shell com IPython e Django Extensions
-2.	Problema do N+1 Selects
-3.	Implementando um Breadcrumb
-4.	Corrigindo Ineficiência do Breacrumb
-5.	Funcionalidade de Indice de Módulos
-6.	Acesso ao lado N do relacionamento
-7.	Método prefetch_related
-8.	Objeto Prefetch
+5.1.	Tunando o Shell com IPython e Django Extensions
+5.2.	Problema do N+1 Selects
+5.3.	Implementando um Breadcrumb
+5.4.	Corrigindo Ineficiência do Breacrumb
+5.5.	Funcionalidade de Indice de Módulos
+5.6.	Acesso ao lado N do relacionamento
+5.7.	Método prefetch_related
+5.8.	Objeto Prefetch
+
 6.	Relacionamento de Muitos para Muitos
-1.	Funcionalidade de Turmas
-2.	Campo ManyToManyField
-3.	Revertendo Migrações
-4.	Criação de Tabela Intermediária
-5.	Configuração de Modelo com Model Meta
-6.	Admin com Modelos Relacionados
+6.1.	Funcionalidade de Turmas
+6.2.	Campo ManyToManyField
+6.3.	Revertendo Migrações
+6.4.	Criação de Tabela Intermediária
+6.5.	Configuração de Modelo com Model Meta
+6.6.	Admin com Modelos Relacionados
 
 4.	Autenticação de Usuários
 1.	Autenticação e Autorização
