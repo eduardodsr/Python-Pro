@@ -13,7 +13,7 @@
 
 ### Segunda Semana de Lives:
 
-- 03/08 → Pessoas mais velhas são CONTRATADAS? - 43:50
+- 03/08 → Pessoas mais velhas são CONTRATADAS? - 43:50 [✔️]
 - 04/08 → Eu preciso de um DIPLOMA para ser PROGRAMADOR? - 1:00:00
 - 05/08 → É muito difícil mudar de área? - 52:39
 - 06/08 → Demora muito para conseguir a primeira vaga? - 50:34
