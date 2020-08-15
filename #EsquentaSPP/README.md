@@ -1,6 +1,6 @@
-# Python Pro - Livevs do Prof. Renzo
+## Python Pro - Lives do Prof. Renzo
 
-## #EsquentaSPP (Semana do Programador Profissional).
+### #EsquentaSPP (Semana do Programador Profissional).
 
 ### Primeira Semana de Lives:
 
