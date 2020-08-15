@@ -1,5 +1,4 @@
 # Python Pro - Python Birds
-===========================
 
 ### Fonte do Projeto Original:
 
@@ -19,7 +18,7 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 - Acompanhamento das atividades de Eduardo da Silva Rodrigues.
 
-- Desenvolvider uma versão simplificada do jogo Angry Birds. 
+- Desenvolvider e praticar uma versão simplificada do jogo Angry Birds. 
 
 ✔️ Checklist de controle de atividades concluídas do curso de Python Pro.
 
