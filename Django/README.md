@@ -12,7 +12,8 @@
 •	Nesse módulo será construído uma aplicação web real utilizando o Web Django, o mais famoso framework web de Python. Ele serve como prática, onde todos os conceitos vistos nos demais módulos serão colocados à prova.
 Além dos conceitos, será exemplificado um processo de entrega contínua com deploys regulares no Heroku.
 
-- 1.	Twelve Factor App
+1.	Twelve Factor App
+
 - 1.1.	Entrega Contínua
 - 1.1.1.	Motivação Django
 - 1.1.2.	Pipenv
@@ -47,14 +48,16 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 1.4.4.	Conexão com Banco e Migrações
 - 1.4.5.	Admin do Usuário
 - 1.4.6.	Aplicando Migrações no Heroku
+
 - 1.5.	Backup, Debug, Sentry e Conclusão
 - 1.5.1.	Backup do Postgresql
 - 1.5.2.	Django Debug Toolbar
 - 1.5.3.	Monitorando Erros com Sentry
 - 1.5.4.	Conclusão The Twelve-Factor App
 
-- 2.	Frontend e Emails
-- 2.1.	Landing Page
+2.	Frontend e Emails
+
+2.1.	Landing Page
 - 2.1.1.	Projeto Fechado
 - 2.1.2.	Twitter Bootstrap e Layoutit
 - 2.1.3.	Instalando Arquivos Estáticos Localmente
@@ -65,7 +68,8 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 2.1..8.	Favicon, Imagens e HTML
 - 2.1.9.	Rodapé
 - 2.1.10.	Entrega da Landing Page
-- 2.2. Integrações Simples
+
+2.2. Integrações Simples
 - 2.2.1.	Criação de Conta Mailchimp
 - 2.2.2.	Criação de Lista de Espera
 - 2.2.3.	Envio de Emails com Mailchimp
@@ -74,18 +78,17 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 2.2.6.	Criação de App Aperitivo
 - 2.2.7.	Publicando o Video em Produção
 
-3.	HTTP e Templates
-
-3.1.	Fluxo HTTP no Django
-3.2.	Herança de Templates
-3.3.	Bloco de Template
-3.4.	Contexto de Template
-3.5.	Video de Acordo com Slug
-3.6.	Filtros
-3.7.	Lista de Elementos com For
-3.8.	Acesso a Atributos no Template
-3.9.	Acesso a Método no Template
-3.10.	Composição de Templates
+2.3.	HTTP e Templates
+- 3.1.	Fluxo HTTP no Django
+- 3.2.	Herança de Templates
+- 3.3.	Bloco de Template
+- 3.4.	Contexto de Template
+- 3.5.	Video de Acordo com Slug
+- 3.6.	Filtros
+- 3.7.	Lista de Elementos com For
+- 3.8.	Acesso a Atributos no Template
+- 3.9.	Acesso a Método no Template
+- 3.10.	Composição de Templates
 
 3.	Banco de Dados
 3.1.	Instalação e Fundamentos
@@ -102,8 +105,8 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 3.2.4.	Final de Testes de Video e Criação de Migração
 3.2.5.	Introdução ao Admin do Django
 
-3.	Criação de App de Módulos de Aulas
-3.3.	Requisitos da App Módulos de Aulas
+3.3.	Criação de App de Módulos de Aulas
+3.3.1.	Requisitos da App Módulos de Aulas
 3.3.2.	Teste de Títulos de Aba Módulos
 3.3.3.	Fachada com Regras de Negócio
 3.3.4.	Processador de Contexto
@@ -112,44 +115,43 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 3.3.7.	Consertando Links do Dropdown
 3.3.8.	Construção da Página de Detalhes do Módulo
 
-4.	Relacionamento Muitos para Um
-4.1.	Como Criar Relacionamento entre Módulo e Aulas
-4.2.	Acesso a Relação com Atributo _set
-4.3.	Unindo Tabelas com SQL JOIN
-4.4.	Criando Links para Aulas
-4.5.	Página de Detalhe da Aula
-4.6.	Adição de Coluna em Tabela
+3.4.	Relacionamento Muitos para Um
+3.4.1.	Como Criar Relacionamento entre Módulo e Aulas
+3.4.2.	Acesso a Relação com Atributo _set
+3.4.3.	Unindo Tabelas com SQL JOIN
+3.4.4.	Criando Links para Aulas
+3.4.5.	Página de Detalhe da Aula
+3.4.6.	Adição de Coluna em Tabela
 
-5.	Como Escapar das Armadilhas do ORM
-5.1.	Tunando o Shell com IPython e Django Extensions
-5.2.	Problema do N+1 Selects
-5.3.	Implementando um Breadcrumb
-5.4.	Corrigindo Ineficiência do Breacrumb
-5.5.	Funcionalidade de Indice de Módulos
-5.6.	Acesso ao lado N do relacionamento
-5.7.	Método prefetch_related
-5.8.	Objeto Prefetch
+3.5.	Como Escapar das Armadilhas do ORM
+3.5.1.	Tunando o Shell com IPython e Django Extensions
+3.5.2.	Problema do N+1 Selects
+3.5.3.	Implementando um Breadcrumb
+3.5.4.	Corrigindo Ineficiência do Breacrumb
+3.5.5.	Funcionalidade de Indice de Módulos
+3.5.6.	Acesso ao lado N do relacionamento
+3.5.7.	Método prefetch_related
+3.5.8.	Objeto Prefetch
 
-6.	Relacionamento de Muitos para Muitos
-6.1.	Funcionalidade de Turmas
-6.2.	Campo ManyToManyField
-6.3.	Revertendo Migrações
-6.4.	Criação de Tabela Intermediária
-6.5.	Configuração de Modelo com Model Meta
-6.6.	Admin com Modelos Relacionados
+3.6.	Relacionamento de Muitos para Muitos
+3.6.1.	Funcionalidade de Turmas
+3.6.2.	Campo ManyToManyField
+3.6.3.	Revertendo Migrações
+3.6.4.	Criação de Tabela Intermediária
+3.6.5.	Configuração de Modelo com Model Meta
+3.6.6.	Admin com Modelos Relacionados
 
 4.	Autenticação de Usuários
-1.	Autenticação e Autorização
-1.	Controle de Acesso nas Aulas
-2.	Formulário de Login Simples
-3.	Configuração de Redirect de Login
-4.	Inserção de Botão de Login
-5.	Teste com Usuário Logado
-6.	Dados de Usuário no Cabeçalho
-7.	Implementação de Logout
-8.	Decorator Login Required
+4.1.	Autenticação e Autorização
+4.1.1.	Controle de Acesso nas Aulas
+4.1.2.	Formulário de Login Simples
+4.1.3.	Configuração de Redirect de Login
+4.1.4.	Inserção de Botão de Login
+4.1.5.	Teste com Usuário Logado
+4.1.6.	Dados de Usuário no Cabeçalho
+4.1.7.	Implementação de Logout
+4.1.8.	Decorator Login Required
 
-2.	Recuperação de Senha
-1.	Formulário de Recuperação de Senhas
-2.	Configurações de Envio de Email
-
+4.2.	Recuperação de Senha
+4.2.1.	Formulário de Recuperação de Senhas
+4.2.2.	Configurações de Envio de Email
