@@ -2,14 +2,23 @@
 
 # PyTools
 
+### Objetivo
+Apresentar um conjunto de ferramentas básico, mas poderoso, que Pythonistas experientes usam no dia-a-dia.
+
+### Público
+Alunos iniciantes de Python que desejam conhecer as ferramentas de seu ecossistema.
+
 ### Descrição
 Nesse módulo será abordada a leitura e escrita de arquivos, com definição de unicode e encode. 
-Instalação e criação de bibliotecas utilizando pip, virtualenv e pypi. 
-Criação de testes automáticos com o framework pytest.
+Instalação e criação de bibliotecas utilizando pip, virtualenv e pypi. Criação de testes automáticos com o framework pytest.
+
 
 ### Conteúdo:
 
 ### 1. Criação de Projetos
+
+### Descrição
+Nessa seção você vai conferir várias boas práticas para criação de um projeto de código aberto em Python. Primeiros passos, versionamento, criação de virtualenvs, instação de libs de terceiros e publicação no PyPi. Assim você vai ter conhecimento sobre todo o ferramental que os projetos existentes utilizam e também vai aprender como reutilizar e compartilhar código criando sua própria biblioteca
 
 #### 1.1. Afiando o Machado - Git
 
@@ -75,6 +84,11 @@ Criação de testes automáticos com o framework pytest.
 
 ### 2. Testes Automáticos
 
+### Descrição
+Nessa seção você vai aprofundar nos conceitos e ferramentas para automatização de testes. Essa tarefa é muito importante para aumentar a qualidade de seu projeto, dando confiança na hora de adicionar novas funcionalidades e prevenindo que muitos bugs sequer cheguem em seu ambiente de produção.
+
+Você vai conferir o framework pytest, mock, cobertura de testes e muito mais. Divirta-se!
+
 2.1. Framework Pytest
 
 2.2.1. Pytest: Instalação
@@ -120,6 +134,11 @@ Criação de testes automáticos com o framework pytest.
 2.3.7. Conclusão Testes Automáticos
 
 ### 3. Pipenv
+
+### Descrição
+Nessa sessão você vai conhecer a evolução na gestão de dependências em Python, a biblioteca Pipenv. Ela foi criada pelo autor da biblioteca requests, Kenneth Reitz.
+
+Seu objetivo é facilitar a vida dos desenvolvedores e aumentar a segurança durante a instalação de pacotes.
 
 3.1. Instalação e Princípios Básicos
 
