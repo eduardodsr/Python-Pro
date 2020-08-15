@@ -12,119 +12,67 @@
 •	Nesse módulo será construído uma aplicação web real utilizando o Web Django, o mais famoso framework web de Python. Ele serve como prática, onde todos os conceitos vistos nos demais módulos serão colocados à prova.
 Além dos conceitos, será exemplificado um processo de entrega contínua com deploys regulares no Heroku.
 
-1.	Twelve Factor App
+- 1.	Twelve Factor App
+- 1.1.	Entrega Contínua
+- 1.1.1.	Motivação Django
+- 1.1.2.	Pipenv
+- 1.1.3.	Integrando Pipenv Travis e Pyup
+- 1.1.4.	Setup de Projeto e Arquivo Manage
+- 1.1.5.	Publicação no Heroku
+- 1.1.6.	Deploy Automático
+- 1.1.7.	Rodando Servidor no Pycharm
+- 1.1.8.	Olá Django
+- 1.1.9.	Pytest Django
+- 1.1.10.	Cobertura de Testes
 
-1.1.	Entrega Contínua
+- 1.2.	Configurações de Projeto
+- 1.2.1.	Lib Python Decouple
+- 1.2.2.	Secret Key
+- 1.2.3.	Domínio e ALLOWED_HOSTS
+- 1.2.4.	Endereço de Banco de Dados
+- 1.2.5.	Testando Postgresql no Travis
+- 1.2.6.	Lingua e Fuso Horário
 
-1.1.1.	Motivação Django
+- 1.3.	Arquivos Estáticos e Upload de Arquivos
+- 1.3.1.	Comando de Coleta de Arquivos Estáticos
+- 1.3.2.	Criação de Usuário na Amazon
+- 1.3.3.	Criação e Configuração do S3
+- 1.3.4.	Configurando a Lib django_s3_folder_storage
+- 1.3.5.	Otimizando Uploads com Collectfast
 
-1.1.2.	Pipenv
+- 1.4.	Migrações e Customização de Usuário
+- 1.4.1.	Sobrescrevendo a Classe User
+- 1.4.2.	Customizando a Classe UserManager
+- 1.4.3.	Comando Makemigrations e Alias mng
+- 1.4.4.	Conexão com Banco e Migrações
+- 1.4.5.	Admin do Usuário
+- 1.4.6.	Aplicando Migrações no Heroku
+- 1.5.	Backup, Debug, Sentry e Conclusão
+- 1.5.1.	Backup do Postgresql
+- 1.5.2.	Django Debug Toolbar
+- 1.5.3.	Monitorando Erros com Sentry
+- 1.5.4.	Conclusão The Twelve-Factor App
 
-1.1.3.	Integrando Pipenv Travis e Pyup
-
-1.1.4.	Setup de Projeto e Arquivo Manage
-
-1.1.5.	Publicação no Heroku
-
-1.1.6.	Deploy Automático
-
-1.1.7.	Rodando Servidor no Pycharm
-
-1.1.8.	Olá Django
-
-1.1.9.	Pytest Django
-
-1.1.10.	Cobertura de Testes
-
-1.2.	Configurações de Projeto
-
-1.2.1.	Lib Python Decouple
-
-1.2.2.	Secret Key
-
-1.2.3.	Domínio e ALLOWED_HOSTS
-
-1.2.4.	Endereço de Banco de Dados
-
-1.2.5.	Testando Postgresql no Travis
-
-1.2.6.	Lingua e Fuso Horário
-
-1.3.	Arquivos Estáticos e Upload de Arquivos
-
-1.3.1.	Comando de Coleta de Arquivos Estáticos
-
-1.3.2.	Criação de Usuário na Amazon
-
-1.3.3.	Criação e Configuração do S3
-
-1.3.4.	Configurando a Lib django_s3_folder_storage
-
-1.3.5.	Otimizando Uploads com Collectfast
-
-1.4.	Migrações e Customização de Usuário
-
-1.4.1.	Sobrescrevendo a Classe User
-
-1.4.2.	Customizando a Classe UserManager
-
-1.4.3.	Comando Makemigrations e Alias mng
-
-1.4.4.	Conexão com Banco e Migrações
-
-1.4.5.	Admin do Usuário
-
-1.4.6.	Aplicando Migrações no Heroku
-
-1.5.	Backup, Debug, Sentry e Conclusão
-
-1.5.1.	Backup do Postgresql
-
-1.5.2.	Django Debug Toolbar
-
-1.5.3.	Monitorando Erros com Sentry
-
-1.5.4.	Conclusão The Twelve-Factor App
-
-1.2.	Frontend e Emails
-
-1.2.1.	Landing Page
-
-1.2.1.1.	Projeto Fechado
-
-1.2.1.2.	Twitter Bootstrap e Layoutit
-
-1.2.1.3.	Instalando Arquivos Estáticos Localmente
-
-1.2.1.4.	Template Tag Static
-
-1.2.1.5.	Criação de Função para Testar Conteúdo
-
-1.2.1.6.	Urls Nomeadas
-
-1.2.1.7.	Encapsulando Urls em Apps
-
-1.2.1..8.	Favicon, Imagens e HTML
-
-1.2.1.9.	Rodapé
-
-1.2.1.10.	Entrega da Landing Page
-
-2.	Integrações Simples
-
-2.1.	Criação de Conta Mailchimp
-
-2.2.	Criação de Lista de Espera
-
-2.3.	Envio de Emails com Mailchimp
-
-2.4.	Configurando Botão de Pagamento
-
-2.5.	Serviço de Video Vimeo
-
-2.6.	Criação de App Aperitivo
-
-2.7.	Publicando o Video em Produção
+- 2.	Frontend e Emails
+- 2.1.	Landing Page
+- 2.1.1.	Projeto Fechado
+- 2.1.2.	Twitter Bootstrap e Layoutit
+- 2.1.3.	Instalando Arquivos Estáticos Localmente
+- 2.1.4.	Template Tag Static
+- 2.1.5.	Criação de Função para Testar Conteúdo
+- 2.1.6.	Urls Nomeadas
+- 2.1.7.	Encapsulando Urls em Apps
+- 2.1..8.	Favicon, Imagens e HTML
+- 2.1.9.	Rodapé
+- 2.1.10.	Entrega da Landing Page
+- 2.2. Integrações Simples
+- 2.2.1.	Criação de Conta Mailchimp
+- 2.2.2.	Criação de Lista de Espera
+- 2.2.3.	Envio de Emails com Mailchimp
+- 2.2.4.	Configurando Botão de Pagamento
+- 2.2.5.	Serviço de Video Vimeo
+- 2.2.6.	Criação de App Aperitivo
+- 2.2.7.	Publicando o Video em Produção
 
 3.	HTTP e Templates
 
