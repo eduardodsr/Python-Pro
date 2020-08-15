@@ -12,9 +12,9 @@
 •	Nesse módulo será construído uma aplicação web real utilizando o Web Django, o mais famoso framework web de Python. Ele serve como prática, onde todos os conceitos vistos nos demais módulos serão colocados à prova.
 Além dos conceitos, será exemplificado um processo de entrega contínua com deploys regulares no Heroku.
 
-1.	Twelve Factor App
+## 1.	Twelve Factor App
 
-1.1.	Entrega Contínua
+### 1.1.	Entrega Contínua
 - 1.1.1.	Motivação Django
 - 1.1.2.	Pipenv
 - 1.1.3.	Integrando Pipenv Travis e Pyup
@@ -26,7 +26,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 1.1.9.	Pytest Django
 - 1.1.10.	Cobertura de Testes
 
-1.2.	Configurações de Projeto
+### 1.2.	Configurações de Projeto
 - 1.2.1.	Lib Python Decouple
 - 1.2.2.	Secret Key
 - 1.2.3.	Domínio e ALLOWED_HOSTS
@@ -55,7 +55,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 1.5.3.	Monitorando Erros com Sentry
 - 1.5.4.	Conclusão The Twelve-Factor App
 
-2.	Frontend e Emails
+##  2.	Frontend e Emails
 
 2.1.	Landing Page
 - 2.1.1.	Projeto Fechado
@@ -90,7 +90,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 2.9.	Acesso a Método no Template
 - 2.10.	Composição de Templates
 
-3.	Banco de Dados
+## 3.	Banco de Dados
 
 3.1.	Instalação e Fundamentos
 - 3.1.1.	Motivação - Banco de Dados
@@ -142,7 +142,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 3.6.5.	Configuração de Modelo com Model Meta
 - 3.6.6.	Admin com Modelos Relacionados
 
-4.	Autenticação de Usuários
+## 4.	Autenticação de Usuários
 
 4.1.	Autenticação e Autorização
 - 4.1.1.	Controle de Acesso nas Aulas
