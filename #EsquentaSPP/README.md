@@ -16,6 +16,6 @@
 - 03/08 → Pessoas mais velhas são CONTRATADAS? - 43:50 [✔️]
 - 04/08 → Eu preciso de um DIPLOMA para ser PROGRAMADOR? - 1:00:00  [✔️]
 - 05/08 → É muito difícil mudar de área? - 52:39 [✔️]
-- 06/08 → Demora muito para conseguir a primeira vaga? - 50:34
+- 06/08 → Demora muito para conseguir a primeira vaga? - 50:34 [✔️]
 - 07/08 → Qual o caminho mais curto para aprender a programar? - 55:33
 - 08/08 → Perguntas e Respostas sobre a Semana do Programador Profissional - 51:29
