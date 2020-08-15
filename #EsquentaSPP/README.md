@@ -1,9 +1,6 @@
-# Python Pro - Prof. Renzo
+# Python Pro - Livevs do Prof. Renzo
 
-### Os desafios de se tornar um Programador
-
-
-## '#EsquentaSPP (Semana do Programador Profissional).
+## #EsquentaSPP (Semana do Programador Profissional).
 
 ### Primeira Semana de Lives:
 
@@ -13,7 +10,6 @@
 - 30/07 → Preciso SABER INGLÊS para aprender a programar?
 - 31/07 → É muito DIFÍCIL começar DO ZERO?
 - 01/08 → Perguntas e Respostas
-- 02/08 → (vou dar uma descansada, afinal, também sou filho de Deus 😂)
 
 ### Segunda Semana de Lives:
 
