@@ -90,6 +90,7 @@ Nessa seção você vai aprofundar nos conceitos e ferramentas para automatizaç
 Você vai conferir o framework pytest, mock, cobertura de testes e muito mais. Divirta-se!
 
 2.1. Framework Pytest
+
 Nesse capítulo você vai aprender como escrever testes automatizados utilizando o framework Pytest. Apesar de já terem sido apresentados os framewords doctest e unitest no módulo Python Birds, aprender o Pytest é fundamental porque ele vem sendo utilizados por diversas empresas e projetos por proporcionar a escrita de testes mais simples.
 
 2.2.1. Pytest: Instalação
@@ -105,6 +106,7 @@ Nesse capítulo você vai aprender como escrever testes automatizados utilizando
 2.2.6. Teste de Exceções
 
 2.2. Pytest Fixtures
+
 Nessa capítulo você vai conhecer umas das funcionalidades mais interessantes do framework Pytest: as fixtures. Com elas você vai conseguir escrever código mais legível e controlar de forma granular o ciclo de vida de objetos para manter a sua suite de testes legível e performática.
 
 2.2.1. Emulando Teste com Banco de Dados
@@ -120,6 +122,7 @@ Nessa capítulo você vai conhecer umas das funcionalidades mais interessantes d
 2.2.6. Arquivo Conftest
 
 2.3. Injeção de Dependências
+
 Nesse capitulo você vai aprender como utilizar o conceito de injeção de dependências para conseguir tornar o seu código testável, conhecendo biblitecas que vão facilitar a escrita e isolamento de testes, como a lib mock.
 
 2.3.1. Produção de Código Testável
@@ -142,6 +145,7 @@ Nessa sessão você vai conhecer a evolução na gestão de dependências em Pyt
 Seu objetivo é facilitar a vida dos desenvolvedores e aumentar a segurança durante a instalação de pacotes.
 
 3.1. Instalação e Princípios Básicos
+
 Nesse capítulo você vai instalar biblioteca pipenv e aprender como gerenciar seus projetos com ela.
 
 3.1.1. Pipenv - Motivação
@@ -153,6 +157,7 @@ Nesse capítulo você vai instalar biblioteca pipenv e aprender como gerenciar s
 3.1.4. Execução de Comandos no Virtualenv
 
 3.2. Atualizando Projeto Legado
+
 Nesse capítulo você vai atualizar o projeto legado utilizando pip + virtualenv para passar a utilizar o pipenv.
 
 3.2.1. Criando Arquivos do Pipenv
