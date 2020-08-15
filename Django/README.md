@@ -34,14 +34,14 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 1.2.5.	Testando Postgresql no Travis
 - 1.2.6.	Lingua e Fuso Horário
 
-- 1.3.	Arquivos Estáticos e Upload de Arquivos
+1.3.	Arquivos Estáticos e Upload de Arquivos
 - 1.3.1.	Comando de Coleta de Arquivos Estáticos
 - 1.3.2.	Criação de Usuário na Amazon
 - 1.3.3.	Criação e Configuração do S3
 - 1.3.4.	Configurando a Lib django_s3_folder_storage
 - 1.3.5.	Otimizando Uploads com Collectfast
 
-- 1.4.	Migrações e Customização de Usuário
+1.4.	Migrações e Customização de Usuário
 - 1.4.1.	Sobrescrevendo a Classe User
 - 1.4.2.	Customizando a Classe UserManager
 - 1.4.3.	Comando Makemigrations e Alias mng
@@ -49,7 +49,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 1.4.5.	Admin do Usuário
 - 1.4.6.	Aplicando Migrações no Heroku
 
-- 1.5.	Backup, Debug, Sentry e Conclusão
+1.5.	Backup, Debug, Sentry e Conclusão
 - 1.5.1.	Backup do Postgresql
 - 1.5.2.	Django Debug Toolbar
 - 1.5.3.	Monitorando Erros com Sentry
@@ -90,22 +90,23 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 2.9.	Acesso a Método no Template
 - 2.10.	Composição de Templates
 
-- 3.	Banco de Dados
-- 3.1.	Instalação e Fundamentos
+3.	Banco de Dados
+
+3.1.	Instalação e Fundamentos
 - 3.1.1.	Motivação - Banco de Dados
 - 3.1.2.	Instalação de Postgres com Docker
 - 3.1.3.	Acesso e Configuração Local do Postgres
 - 3.1.4.	Modelos do Django
 - 3.1.5.	Introdução a QuerySet e Migrações
 
-- 3.2.	Testes com Banco de Dados
+3.2.	Testes com Banco de Dados
 - 3.2.1.	Executar Testes Com e Sem Migrações
 - 3.2.2.	Criação de Modelos nos Testes
 - 3.2.3.	Criação Automágica de Propriedades de Modelo
 - 3.2.4.	Final de Testes de Video e Criação de Migração
 - 3.2.5.	Introdução ao Admin do Django
 
-- 3.3.	Criação de App de Módulos de Aulas
+3.3.	Criação de App de Módulos de Aulas
 - 3.3.1.	Requisitos da App Módulos de Aulas
 - 3.3.2.	Teste de Títulos de Aba Módulos
 - 3.3.3.	Fachada com Regras de Negócio
@@ -115,7 +116,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 3.3.7.	Consertando Links do Dropdown
 - 3.3.8.	Construção da Página de Detalhes do Módulo
 
-- 3.4.	Relacionamento Muitos para Um
+3.4.	Relacionamento Muitos para Um
 - 3.4.1.	Como Criar Relacionamento entre Módulo e Aulas
 - 3.4.2.	Acesso a Relação com Atributo _set
 - 3.4.3.	Unindo Tabelas com SQL JOIN
@@ -123,7 +124,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 3.4.5.	Página de Detalhe da Aula
 - 3.4.6.	Adição de Coluna em Tabela
 
-- 3.5.	Como Escapar das Armadilhas do ORM
+3.5.	Como Escapar das Armadilhas do ORM
 - 3.5.1.	Tunando o Shell com IPython e Django Extensions
 - 3.5.2.	Problema do N+1 Selects
 - 3.5.3.	Implementando um Breadcrumb
@@ -133,7 +134,7 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 3.5.7.	Método prefetch_related
 - 3.5.8.	Objeto Prefetch
 
-- 3.6.	Relacionamento de Muitos para Muitos
+3.6.	Relacionamento de Muitos para Muitos
 - 3.6.1.	Funcionalidade de Turmas
 - 3.6.2.	Campo ManyToManyField
 - 3.6.3.	Revertendo Migrações
@@ -142,7 +143,8 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 3.6.6.	Admin com Modelos Relacionados
 
 4.	Autenticação de Usuários
-- 4.1.	Autenticação e Autorização
+
+4.1.	Autenticação e Autorização
 - 4.1.1.	Controle de Acesso nas Aulas
 - 4.1.2.	Formulário de Login Simples
 - 4.1.3.	Configuração de Redirect de Login
@@ -152,6 +154,6 @@ Além dos conceitos, será exemplificado um processo de entrega contínua com de
 - 4.1.7.	Implementação de Logout
 - 4.1.8.	Decorator Login Required
 
-- 4.2.	Recuperação de Senha
+4.2.	Recuperação de Senha
 - 4.2.1.	Formulário de Recuperação de Senhas
 - 4.2.2.	Configurações de Envio de Email
