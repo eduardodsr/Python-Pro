@@ -1,6 +1,9 @@
 # Python Pro
 
-# PyTools
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Python)
+
+## PyTools
 
 ### Objetivo
 Apresentar um conjunto de ferramentas básico, mas poderoso, que Pythonistas experientes usam no dia-a-dia.
