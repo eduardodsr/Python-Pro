@@ -1,5 +1,9 @@
 ## Python Pro - Lives do Prof. Renzo
 
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Python)
+
+
 ### #EsquentaSPP (Semana do Programador Profissional).
 
 ### Primeira Semana de Lives:
