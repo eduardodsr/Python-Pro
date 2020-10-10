@@ -38,7 +38,7 @@ Powered by [Python Pro](http://adm.python.pro.br)
 - Herança
 
 
-## Conteúdo do Curso de Python:
+## Conteúdo do Curso de Python | CheckList ✔️:
 
 ## 1.	Programação Procedural
 ### Descrição:
