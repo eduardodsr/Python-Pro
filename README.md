@@ -11,10 +11,24 @@
 ``` link: ```  https://github.com/eduardodsr/Python/tree/master/%23EsquentaSPP
 
 
-
 ## MÓDULO 1: Python Birds, o fundamento!
 
-No primeiro módulo você vai conhecer as maravilhas do Python. Neste módulo eu vou te ensinar todos os fundamentos da programação.
+### *Objetivo*
+Neste módulo vamos aprender os fundamentos da programação. Introduzir programação Procedural e Orientação a Objetos em Python.
+
+### *Descrição*
+Durante o módulo será desenvolvida uma versão simplificada do jogo Angry Birds. Assim o aluno aprenderá os conceitos ao mesmo tempo em que implementa um projeto prático.
+
+### *Conteúdo*
+
+- Programação Procedural
+- Introdução
+- Tipos Básicos
+- Containers e Iteração
+- Modularização
+- Orientação a Objetos
+- Classe e Composição
+- Herança
 
 
 ## Python Birds
