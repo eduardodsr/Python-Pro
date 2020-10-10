@@ -1,4 +1,4 @@
-# Python Pro - Python Birds (2020)
+# Python Pro - Python Birds (2020) ​😡​🐦​
 
 ### Fonte do Projeto Original:
 
@@ -15,7 +15,7 @@ Powered by [Python Pro](http://adm.python.pro.br)
 - Desenvolver e praticar uma versão simplificada do jogo Angry Birds. 
 
 
-# 🐍 Python Birds 🐍
+# Python Birds 🐍 ​😡​🐦​
 
 ## Objetivo
 - Introduzir programação Procedural e Orientação a Objetos em Python.
