@@ -37,6 +37,16 @@ Powered by [Python Pro](http://adm.python.pro.br)
 - Classe e Composição
 - Herança
 
+## Instrutor Renzo Nuccitelli
+
+- Renzo Nuccitelli é Instruto, Engenheiro de Computação formado pelo ITA. Especialista em programação web.
+
+- Foi Diretor de Tecnologia na startup de educação QMagico e Pricez, onde estruturou os times de tecnologia e todo Processo de desenvolvimento.
+
+- Apaixonado por dar aulas, foi professor da Fatec durante 4 anos onde ministrou as matérias de "Orientação a Objetos" e "Aplicações para Internet", "Estrutura de Dados" e "Javascript". Já palestrou em eventos como Pycon US, Google Developer Bus, DevFest, Rupy e Python Brasil.
+
+- Especialista em teste automáticos, foi Engenheiro de Qualidade Senior na Red Hat durante 2 anos.
+
 
 ## Conteúdo do Curso de Python | CheckList ✔️:
 
