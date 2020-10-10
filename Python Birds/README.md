@@ -44,6 +44,8 @@ Nessa seção você vai aprender programação procedural. Esse paradigma consis
 ### Descrição:
 Nesse capítulo você vai conferir a motivação do curso, ou seja, como o jogo ficará após a implementação. Logo depois você vai aprender como instalar o Python em seu sistema operacional, editar código e fazer pequenos testes no console.
 
+1.1.0. Como Extrair o Máximo da Plataforma ✔️
+
 1.1.1.	Motivação ✔️ 
 
 1.1.2.	Instalação Windows ✔️ 
