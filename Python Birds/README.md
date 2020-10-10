@@ -6,6 +6,10 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 ![](https://github.com/eduardodsr/pythonbirds/blob/simples/logoPythonPro.png)
 
+ <p align="center">
+  <img src=(https://github.com/eduardodsr/pythonbirds/blob/simples/logoPythonPro.png?raw=true" alt="imagem" width="600px" />
+ </p>
+
 
 ### Objetivo do Projeto:
 
