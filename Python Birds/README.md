@@ -39,7 +39,7 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 ## Instrutor Renzo Nuccitelli
 
-- Renzo Nuccitelli é Instruto, Engenheiro de Computação formado pelo ITA. Especialista em programação web.
+- Renzo Nuccitelli é Instrutor/Professor, Engenheiro de Computação formado pelo ITA. Especialista em programação web.
 
 - Foi Diretor de Tecnologia na startup de educação QMagico e Pricez, onde estruturou os times de tecnologia e todo Processo de desenvolvimento.
 
