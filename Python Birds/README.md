@@ -10,15 +10,31 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 ### Objetivo do Projeto:
 
-- Acompanhamento das atividades de Eduardo da Silva Rodrigues.
+- CheckList ✔️ - Acompanhamento das minhas atividades durante o curso.
 
-- Desenvolvider e praticar uma versão simplificada do jogo Angry Birds. 
-
-✔️ Checklist de controle de atividades concluídas do curso de Python Pro.
+- Desenvolver e praticar uma versão simplificada do jogo Angry Birds. 
 
 
-### Conteúdo (Meu andamento do Curso de Python):
+# 🐍 Python Birds 🐍
 
+## Objetivo
+- Introduzir programação Procedural e Orientação a Objetos em Python.
+
+## Descrição
+- Durante o módulo será desenvolvida uma versão simplificada do jogo Angry Birds. Assim o aluno aprenderá os conceitos ao mesmo tempo em que implementa um projeto prático.
+
+## Conteúdo
+- Programação Procedural
+- Introdução
+- Tipos Básicos
+- Containers e Iteração
+- Modularização
+- Orientação a Objetos
+- Classe e Composição
+- Herança
+
+
+## Conteúdo do Curso de Python:
 
 ## 1.	Programação Procedural
 ### Descrição:
@@ -185,3 +201,21 @@ Nesse capítulo, depois de aprender composição no anterior, você vai aprender
 2.2.18.	Gran Finale
 
 2.2.19.	Retrospectiva: Orientação a Objetos
+
+
+
+### CONTATO: :mailbox_with_no_mail:
+
+### 🐍 DESENVOLVEDOR PYTHON: 🐍
+
+### :star: EDUARDO DA SILVA RODRIGUES :star:
+
+:point_right: eduardodsr@gmail.com :point_left: 
+
+
+### The End
+
+ <p align="left">
+  <img src=https://i.imgur.com/760Zrb2.gif?raw=true" alt="imagem" width="150px" />                                                                            
+ </p>
+
