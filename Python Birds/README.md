@@ -110,27 +110,27 @@ Nesse capítulo você vai conferir diversos tipos de containers em Python. Os co
 ### Descrição:
 Nesse capítulo você vai aprender como modularizar seu código com estrutura básicas da linguagem Python: Funções, Módulos e Pacotes. Assim seu código começa a ser dividido para que não fique sobrecarregado. Você vai conferir também como documentar o seu código para facilitar a leitura. Por fim será feito um exercício ao final da seção abordando os conceitos de toda a sessão Programação Procedural, finalizando com um tópico de retrospectiva.
 
-1.4.1.	Função e PEP 8
+1.4.1.	Função e PEP 8 ✔️ 
 
-1.4.2.	Parâmetros de Função
+1.4.2.	Parâmetros de Função ✔️ 
 
-1.4.3.	Parâmetros Variáveis
+1.4.3.	Parâmetros Variáveis ✔️ 
 
-1.4.4.	Módulo
+1.4.4.	Módulo ✔️ 
 
-1.4.5.	Debug
+1.4.5.	Debug ✔️ 
 
-1.4.6.	Import e __name__
+1.4.6.	Import e __name__ ✔️ 
+ 
+1.4.7.	Pacote ✔️ 
 
-1.4.7.	Pacote
+1.4.8.	Docstring e Comentário ✔️ 
 
-1.4.8.	Docstring e Comentário
+1.4.9.	Contagem de Caracteres com Lista ✔️ 
 
-1.4.9.	Contagem de Caracteres com Lista
+1.4.10.	Contagem de Caracteres com Dicionário ✔️ 
 
-1.4.10.	Contagem de Caracteres com Dicionário
-
-1.4.11.	Retrospectiva: Paradigma Procedural
+1.4.11.	Retrospectiva: Paradigma Procedural ✔️ 
 
 ## 2.	Orientação a Objetos
 ### Descrição:
