@@ -90,21 +90,21 @@ Nesse capítulo você vai aprender sobre os tipos embutidos. Eles formam um conj
 ### Descrição:
 Nesse capítulo você vai conferir diversos tipos de containers em Python. Os containers são estruturas de dados que contém referências para outros objetos. Já a iteração é a maneira pela qual você navega nos elementos de um container constituindo então o outro principal assunto a ser abordado.
 
-1.3.1.	String, Dir e Help
+1.3.1.	String, Dir e Help  ✔️ 
 
-1.3.2.	Lista e Range
+1.3.2.	Lista e Range  ✔️ 
 
-1.3.3.	Tupla e Id
+1.3.3.	Tupla e Id  ✔️ 
 
-1.3.4.	Acesso, Tamanho e Fatiamento
+1.3.4.	Acesso, Tamanho e Fatiamento  ✔️ 
 
-1.3.5.	While
+1.3.5.	While  ✔️ 
 
-1.3.6.	For
+1.3.6.	For  ✔️ 
 
-1.3.7.	Dicionários/Mapas
+1.3.7.	Dicionários/Mapas  ✔️ 
 
-1.3.8.	Iteração em Dicionário
+1.3.8.	Iteração em Dicionário  ✔️ 
 
 ### 1.4.	Modularização
 ### Descrição:
