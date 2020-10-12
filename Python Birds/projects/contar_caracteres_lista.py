@@ -1,12 +1,13 @@
 def contar_char(s):
 
-    """Essa função calcula a soma de duas parcelas
+    """Essa função calcula a quantidade de char(caracteres) de uma str(string)
     Ex:
     >>> conta_char('amor')
     a: 1
     m: 1
     o: 1
     r: 1
+    
     >>> conta_char('amar')
     a: 2
     m: 1
@@ -32,3 +33,17 @@ if __name__ == '__main__':
     contar_char('amor')
     print()
     contar_char('amar')
+    
+"""
+Resultado Terminal
+"""
+
+a: 1
+m: 1
+o: 1
+r: 1
+
+a: 2
+m: 1
+r: 1
+"""
