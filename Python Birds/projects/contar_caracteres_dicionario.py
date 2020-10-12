@@ -2,7 +2,7 @@
 
 def contar_char(s):
 
-    """Essa função calcula a quantidade de char(caracteres) de uma dict(dicionário)
+    """Essa função calcula a quantidade de char(caracteres) de um dict(dicionário)
     Ex:
     >>> conta_char('amor')
     {'a': 1 , 'm': 1, 'o': 1, 'r': 1}
