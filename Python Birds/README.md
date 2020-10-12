@@ -1,5 +1,8 @@
 # Python Pro - Python Birds (2020) 🐍 ​🐦​
 
+[![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardodsr/)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Python-Pro)
+
 ### Fonte do Projeto Original:
 
 Powered by [Python Pro](http://adm.python.pro.br)
