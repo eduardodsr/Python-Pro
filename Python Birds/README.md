@@ -143,27 +143,27 @@ Depois de aprender o paradigma procedural na seção anterior chega hora de conh
 ### Descrição:
 Nesse capítulo você vai estudar e estrutura de dados base de toda Orientação a Objetos: a Classe. Além de serem abordados todos seu elementos, como atributos de dados e métodos, será também apresentado o conceito de Composição. Nele você aprenderá como os Objetos, construídos através de classes, se relacionam. Depois disso tudo você ainda aprender o básico sobre o controlador de versão Git e também sobre testes automáticos com Doctest.
 
-2.1.1.	Git no Windows
+2.1.1.	Git no Windows ✔️
 
-2.1.2.	Git no Ubuntu
+2.1.2.	Git no Ubuntu ✔️
 
-2.1.3.	Git no Mac
+2.1.3.	Git no Mac ✔️
 
-2.1.4.	Github e Setup
+2.1.4.	Github e Setup ✔️
 
-2.1.5.	Classe
+2.1.5.	Classe ✔️
 
-2.1.6.	Commit e Push
+2.1.6.	Commit e Push ✔️
 
-2.1.7.	Método
+2.1.7.	Método ✔️
 
-2.1.8.	Atributo de Dado
+2.1.8.	Atributo de Dado ✔️
 
-2.1.9.	Atributo Complexo
+2.1.9.	Atributo Complexo ✔️
 
-2.1.10.	Atributo Dinâmico
+2.1.10.	Atributo Dinâmico ✔️
 
-2.1.11.	Atributo de Classe
+2.1.11.	Atributo de Classe ✔️
 
 2.1.12.	Método de Classe
 
