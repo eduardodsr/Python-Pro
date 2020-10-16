@@ -53,7 +53,7 @@ Powered by [Python Pro](http://adm.python.pro.br)
 
 ## Conteúdo do Curso de Python | CheckList ✔️:
 
-## 1.	Programação Procedural
+## 1.	Programação Procedural ✔️
 ### Descrição:
 Nessa seção você vai aprender programação procedural. Esse paradigma consiste em você definir a resolução de um problema, passo a passo, de forma linear. Funciona como uma receita culinária, onde cada etapa é definida exatamente uma depois da outra.
 
@@ -139,7 +139,7 @@ Nesse capítulo você vai aprender como modularizar seu código com estrutura b�
 ### Descrição:
 Depois de aprender o paradigma procedural na seção anterior chega hora de conhecer outro: a Orientação a Objetos (OO). Você vai aprender sobre classes e seus componentes, herança e utilizar esses conceitos para implementar o jogo Python Birds. Como toda mudança de paradigma, demora um tempo para se acostumar, mas é importante aprender bem OO porque ela utilizada em inúmeras bibliotecas e frameworks.
 
-### 2.1.	Classe e Composição
+### 2.1.	Classe e Composição ✔️
 ### Descrição:
 Nesse capítulo você vai estudar e estrutura de dados base de toda Orientação a Objetos: a Classe. Além de serem abordados todos seu elementos, como atributos de dados e métodos, será também apresentado o conceito de Composição. Nele você aprenderá como os Objetos, construídos através de classes, se relacionam. Depois disso tudo você ainda aprender o básico sobre o controlador de versão Git e também sobre testes automáticos com Doctest.
 
@@ -165,19 +165,19 @@ Nesse capítulo você vai estudar e estrutura de dados base de toda Orientação
 
 2.1.11.	Atributo de Classe ✔️
 
-2.1.12.	Método de Classe
+2.1.12.	Método de Classe ✔️
 
-2.1.13.	Composição
+2.1.13.	Composição ✔️
 
-2.1.14.	Doctest
+2.1.14.	Doctest ✔️
 
-2.1.15.	Implementação do Motor
+2.1.15.	Implementação do Motor ✔️
 
-2.1.16.	Implementação da Direção
+2.1.16.	Implementação da Direção ✔️
 
-2.1.17.	Implementação do Carro
+2.1.17.	Implementação do Carro ✔️
 
-2.1.18.	Fase e Atores
+2.1.18.	Fase e Atores ✔️
 
 ### 2.2.	Herança
 ### Descrição:
