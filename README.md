@@ -35,7 +35,7 @@ Durante o módulo será desenvolvida uma versão simplificada do jogo Angry Bird
 
 ``` link: ```  https://github.com/eduardodsr/Python/blob/master/Python%20Birds/README.md
 
-
+<br>
 
 ## MÓDULO 2: PyTools, as ferramentas primordiais!
 
@@ -48,7 +48,7 @@ Para programar não basta saber a lógica, é preciso saber operar as ferramenta
 
 ``` link: ```  https://github.com/eduardodsr/Python/tree/master/PyTools
 
-
+<br>
 
 ## MÓDULO 3: Django, o framework mais utilizado!
 
@@ -60,6 +60,7 @@ Você vai aprender a construir e publicar, do zero, um sistema que possui divers
 
 ``` link: ```  https://github.com/eduardodsr/Python/tree/master/Django
 
+<br>
 
 ### Python Pro
 
