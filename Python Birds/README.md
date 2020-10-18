@@ -222,6 +222,13 @@ Nesse capítulo, depois de aprender composição no anterior, você vai aprender
 2.2.19.	Retrospectiva: Orientação a Objetos ✔️
 
 
+### DASHBOARD | Print de Conclusão do Curso
+
+ <p align="center">
+  <img src=https://github.com/eduardodsr/Digital-House-Front-End-Coding-Facebook/blob/master/print_fim.png?raw=true" alt="imagem" width="800px" />                               
+ </p>
+
+
 
 ### CONTATO: :mailbox_with_no_mail:
 
